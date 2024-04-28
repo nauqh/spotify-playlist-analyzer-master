@@ -1,0 +1,6 @@
+app/__pycache__/
+.cache
+analysis.ipynb
+.ipynb_checkpoints
+env
+.env
